@@ -1,0 +1,38 @@
+# sasakure.UK – トゥイー・ボックスの人形劇場
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.08] ミセカケ未満 ホンモノ以上 発条止めて 邪魔しないで！
+[00:22.47] 積み木重ね 人形揃え ビーズを鳴らしたら 、
+[00:33.47] 
+[00:33.70] ShootingStar、たくさん詰めて ヒツジの角を回せ、回せもっと！
+[00:39.92] LetMeSee、名前を付けて たからばこ あけて
+[00:52.42] 
+[00:48.80] Let's pop Twee pop go-merry-go-round！ わたあみタイガーも ガラスのうさぎも
+[00:55.02] Let's pop Twee pop go-merry-go-round！ 踊れば良いじゃないか いつまでも
+[01:00.69] Let's pop Twee pop go-merry-go-round！ みんなみんなみんな尻尾垂らして
+[01:06.47] Let's pop Twee pop go-merry-go-round！ 笑えば良いじゃないか いつまでも
+[01:33.47] 
+[01:17.82] 知らないんじゃない 忘れただけ パーティを開く 秘密の言葉
+[01:23.23] だれもが一度暮らした世界 お菓子な顔してさ、、
+[01:34.73] 
+[01:34.35] Oh, MyPOP！おとなになると みんなが"meta"を求め求めちゃうの！
+[01:40.20] "Meta"の無いこの言葉は― たちまち わすれて
+[01:52.70] 
+[01:50.31] Let's pop Twee pop go-merry-go-round！ ひねくれ王子も ワガママプリンセスも
+[01:56.14] Let's pop Twee pop go-merry-go-round！ 難しい事言わないで欲しいよ
+[02:02.00] Let's pop Twee pop go-merry-go-round！ 鋭い牙を向けないで頂戴
+[02:08.14] Let's pop Twee pop go-merry-go-round！ 笑えば良いじゃないか いつまでも
+[02:35.14] 
+[02:47.92] Let's pop Twee pop go-merry-go-round！ かつてみんなオモチャみたいな顔で
+[02:54.67] Let's pop Twee pop go-merry-go-round！ "meta"なんてないよ 遊んでただけだ
+[03:00.31] Let's pop Twee pop go-merry-go-round！ みんなみんなみんな頭ぶつけても
+[03:05.93] Let's pop Twee pop go-merry-go-round！ 笑えば良いじゃないか いつまでも
+[03:32.93] 
+[03:11.42] Let's pop Twee pop go-merry-go-round！ トロイの木馬も キズネコトムも
+[03:17.13] Let's pop Twee pop go-merry-go-round！ 踊れば良いじゃないか いつまでも
+[03:22.81] Let's pop Twee pop go-merry-go-round！ ミサイルなんて向けないで頂戴
+[03:28.44] Let's pop Twee pop go-merry-go-round！ 笑えば良いじゃないか いつまでも
+[03:33.78] 笑えば良いじゃないか いつまでも
+```
