@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "トゥイー・ボックスの人形劇場",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2025-12-02T12:51:31.290098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Puppet Theater of Twee-Box [トゥイー・ボックスの人形劇場]",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_Puppet_Theater_of_Twee-Box_[トゥイー・ボックスの人形劇場]_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Puppet Theatre of Twee-Box [トゥイー・ボックスの人形劇場]",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/02_Puppet_Theatre_of_Twee-Box_[トゥイー・ボックスの人形劇場]_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トゥイー・ボックスの人形劇場",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/03_トゥイー・ボックスの人形劇場_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トゥイー・ボックスの人形劇場",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_トゥイー・ボックスの人形劇場_sasakure.UK_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トゥイー・ボックスの人形劇場 (feat. 初音ミク)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/05_トゥイー・ボックスの人形劇場_(feat._初音ミク)_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トゥイー・ボックスの人形劇場 (feat. 初音ミク)",
+      "artist": "sasakure.UK, 初音ミク",
+      "has_synced": true,
+      "path": "select/06_トゥイー・ボックスの人形劇場_(feat._初音ミク)_sasakure.UK,_初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トゥイー・ボックスの人形劇場",
+      "artist": "sasakure.UK, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_トゥイー・ボックスの人形劇場_sasakure.UK,_初音ミク.txt"
+    }
+  ]
+}
